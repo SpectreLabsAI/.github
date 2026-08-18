@@ -10,7 +10,7 @@ We build from inside the conditions we're building for.
 
 ## What we're building
 
-**Project WZB** — *in development*  
+**Turaco TTS** — *in development*  
 A text-to-speech system for Hausa, Yoruba, Igbo, and Nigerian Pidgin. Millions of Nigerians are locked out of digital education, health information, and commerce because those systems only speak English. Voice removes the literacy barrier and the language barrier at once.
 
 *Status: high quality data sourcing and refinements almost complete· model training upcoming*
