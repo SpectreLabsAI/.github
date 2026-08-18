@@ -34,7 +34,7 @@ An agentic platform for operating complex work. Nomad, its internal deployment, 
 
 ## Elsewhere
 
-Models — [huggingface.co/SpectreLabsAfrica](https://huggingface.co/SpectreLabsAfrica)  
+Models — [huggingface.co/SpectreLabsAI](https://huggingface.co/SpectreLabsAI)  
 Web — [spectrelabs.africa](https://spectrelabs.africa)  
 Contact — info@spectrelabs.africa
 
