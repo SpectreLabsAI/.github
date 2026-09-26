@@ -15,9 +15,6 @@ A text-to-speech system for Hausa, Yoruba, Igbo, and Nigerian Pidgin. Millions o
 
 *Status: high quality data sourcing and refinements almost complete· model training upcoming*
 
-**Agent X** — *MVP*  
-An agentic platform for operating complex work. Nomad, its internal deployment, runs Spectre's own operations.
-
 ---
 
 ## How we work
